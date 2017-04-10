@@ -18,7 +18,7 @@ Roku provides the leading operating system for TV. We design the firmware and cl
 The Roku OS runs across a spectrum of hardware. The main form factors are:
 
 * **Roku Players:** The original form factor for Roku devices, these are connected devices that stream video also known as Over-the-top transmission (OTT)
-* **Roku Streaming Sticks:** A subset of players, these are smaller HDMI devices that directlt plug into TVs
+* **Roku Streaming Sticks:** A subset of players, these are smaller HDMI devices that directly plug into TVs
 * **Roku Powered:** Devices licensed to Pay-TV operators. Typically are variants or exact versions of our Roku Players.
 * **Roku TVs:** Licensed Roku OS to an array of Television manufacturers using our hardware reference designs
 
